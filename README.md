@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">
+Hi 👋, I'm Piyush Gupta
+</h1>
 
-<!--
-**Piyushh-Gupta/Piyushh-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI/ML Developer • Full Stack Developer • Industrial IoT Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Turning ideas into real-world intelligent systems 🚀
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Industrial Internet of Things (IIoT) Student
+- 🤖 Passionate about AI, Machine Learning & Intelligent Systems
+- 🌱 Currently learning Full Stack Development and Advanced AI
+- 💡 Interested in solving real-world problems using technology
+
+---
+
+## 🛠️ Tech Stack
+
+Coming Soon...
+
+---
+
+## 🚀 Projects
+
+Coming Soon...
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn:
+- Email:
+- Portfolio:
