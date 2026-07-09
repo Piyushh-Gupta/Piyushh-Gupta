@@ -16,10 +16,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Industrial Internet of Things (IIoT) Student
-- 🤖 Passionate about AI, Machine Learning & Intelligent Systems
-- 🌱 Currently learning Full Stack Development and Advanced AI
-- 💡 Interested in solving real-world problems using technology
+- 🎓 B.Tech in Industrial Internet of Things (IIoT) @ VIPS-TC
+- 🤖 Passionate about AI, Machine Learning, IoT and Full Stack Development
+- 🚀 Building intelligent systems that solve real-world problems
+- 🌱 Currently exploring LLMs, RAG, Computer Vision and Cloud Technologies
+- 💬 Ask me about **Python, Machine Learning, IoT, SQL, Git or Full Stack Development**
+- ⚡ Fun fact: I enjoy turning ambitious ideas into working products.
 
 ---
 
