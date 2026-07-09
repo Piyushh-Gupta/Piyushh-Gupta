@@ -27,7 +27,9 @@
 
 ## 🛠️ Tech Stack
 
-Coming Soon...
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,git,github,mysql,postgres,docker,vscode,arduino,linux" />
+</p>
 
 ---
 
