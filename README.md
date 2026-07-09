@@ -32,6 +32,26 @@
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Piyushh-Gupta&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushh-Gupta&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?username=Piyushh-Gupta&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 ## 🚀 Projects
 
