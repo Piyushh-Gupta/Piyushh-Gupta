@@ -53,9 +53,14 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-Coming Soon...
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🪨 RockSure AI | AI-powered rockfall prediction system | Python, ML, IoT |
+| ⚖️ NyaySetu | AI-powered legal assistant | React, Node.js, AI |
+| 📈 Customer Churn Prediction | Predict customer churn using ML | Python, XGBoost |
+| 🤖 AFDSA | Autonomous Field Deployment Suitability Analyzer | ESP32, Arduino |
 
 ---
 
