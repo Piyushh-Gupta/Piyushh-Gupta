@@ -1,13 +1,11 @@
-<h1 align="center">
-Hi 👋, I'm Piyush Gupta
-</h1>
+<h1 align="center">Hi 👋, I'm Piyush Gupta</h1>
 
-<h3 align="center">
-AI/ML Developer • Full Stack Developer • Industrial IoT Engineer
-</h3>
+<h3 align="center">AI/ML Engineer | Full Stack Developer | Industrial IoT Engineer</h3>
 
 <p align="center">
-Turning ideas into real-world intelligent systems 🚀
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real-world+problems;Industrial+IoT+Engineer;Full+Stack+Developer;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
+
 </p>
 
 ---
