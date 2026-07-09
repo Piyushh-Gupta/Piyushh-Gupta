@@ -28,10 +28,22 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,git,github,mysql,postgres,docker,vscode,arduino,linux" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode,arduino,linux,tensorflow,pytorch&perline=10"/>
+
 </p>
 
 ---
+## 🌱 Currently Learning
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 👁️ Computer Vision
+- ☁️ Cloud Computing
+- 🚀 Full Stack AI Applications
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -41,6 +53,21 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushh-Gupta&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Piyushh-Gupta&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+
+</p>
+
+---
+## 📈 Contribution Graph
+
+[![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyushh-Gupta&theme=tokyo-night)](https://github.com/Piyushh-Gupta)
+
 
 ---
 ## 🔥 GitHub Streak
@@ -55,20 +82,47 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🪨 RockSure AI | AI-powered rockfall prediction system | Python, ML, IoT |
-| ⚖️ NyaySetu | AI-powered legal assistant | React, Node.js, AI |
-| 📈 Customer Churn Prediction | Predict customer churn using ML | Python, XGBoost |
-| 🤖 AFDSA | Autonomous Field Deployment Suitability Analyzer | ESP32, Arduino |
+### 🪨 RockSure AI
+AI-powered Rockfall Prediction & Alert System using Machine Learning + IoT.
+
+---
+
+### ⚖️ NyaySetu
+AI-powered Legal Assistant with multilingual support.
+
+---
+
+### 📈 Customer Churn Prediction
+Machine Learning pipeline using XGBoost and Power BI.
+
+---
+
+### 🤖 AFDSA
+Autonomous Field Deployment Suitability Analyzer using ESP32 and IoT sensors.
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn:
-- Email:
-- Portfolio:
+<p align="center">
+
+<a href="https://www.linkedin.com/in/piyushgupta1806">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:piyushgup1806@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Piyushh-Gupta">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
