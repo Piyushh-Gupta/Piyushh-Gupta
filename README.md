@@ -1,163 +1,83 @@
-<h1 align="center">Hi 👋, I'm Piyush Gupta</h1>
+# Piyush Gupta
 
-<h3 align="center">
-AI/ML Engineer
-</h3>
+> **AI/ML Engineer**
 
+```{=html}
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+production-grade+intelligent+systems;Artificial+Intelligence+Engineer;Machine+Learning+%7C+Data+Analytics;Industrial+IoT+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG"/>
-</a>
+```
+`<a href="https://git.io/typing-svg">`{=html}
+`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+production-grade+intelligent+systems;Artificial+Intelligence+Engineer;Machine+Learning+%7C+Data+Analytics;Industrial+IoT+Enthusiast;Always+Learning+Something+New+🚀"/>`{=html}
+`</a>`{=html}
+```{=html}
 </p>
+```
+## About Me
 
+-   AI/ML Engineer passionate about building production-grade
+    intelligent systems.
+-   Interested in Artificial Intelligence, Machine Learning, Data
+    Science & Analytics.
+-   Exploring Industrial IoT and real-world AI applications.
+-   Currently learning LLMs, RAG, Computer Vision and Cloud
+    Technologies.
+
+## Tech Stack
+
+### Languages
+
+Python • C++ • C • SQL • JavaScript
+
+### Frontend & UI
+
+HTML • CSS • React
+
+### Backend & Databases
+
+Node.js • Express • PostgreSQL • MySQL • MongoDB
+
+### AI / Machine Learning
+
+Scikit-learn • Pandas • NumPy • Matplotlib • XGBoost • Jupyter • Power
+BI
+
+## Featured Projects
+
+-   🧬 CrowdDNA (Flagship)
+-   🪨 RockSure AI
+-   📈 Customer Churn Prediction
+-   🤖 AFDSA
+-   ⚖️ NyaySetu
+
+## GitHub Stats
+
+```{=html}
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Piyushh-Gupta&label=Profile%20Views&color=0e75b6&style=flat"/>
+```
+`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyushh-Gupta&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushh-Gupta&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
+## Contribution Graph
 
----
-
-# 👨‍💻 About Me
-
-- 🤖 AI/ML Engineer passionate about building production-grade intelligent systems.
-- 📊 Interested in Artificial Intelligence, Machine Learning, Data Science & Analytics.
-- 🌐 Exploring Industrial IoT and real-world AI applications.
-- 🚀 Building scalable solutions that transform data into real-world impact.
-- 🌱 Currently learning LLMs, RAG, Computer Vision and Cloud Technologies.
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<br>
-
-### 🎨 Frontend & UI
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-<br>
-
-### ⚙️ Backend & Databases
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<br>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-### 🧬 CrowdDNA *(Flagship Project)*
-
-AI-powered Crowd Intelligence Platform leveraging Computer Vision, Artificial Intelligence and Data Analytics to understand crowd behaviour, movement patterns and provide real-time actionable insights.
-
----
-
-### 🪨 RockSure AI
-
-AI-powered Rockfall Prediction & Alert System using Machine Learning and Industrial IoT.
-
----
-
-### 📈 Customer Churn Prediction
-
-End-to-end Machine Learning pipeline using XGBoost, SQL and Power BI.
-
----
-
-### 🤖 AFDSA
-
-Autonomous Field Deployment Suitability Analyzer using Industrial IoT and AI.
-
----
-
-### ⚖️ NyaySetu
-
-AI-powered multilingual Legal Assistance Platform.
-
----
-
-# 📊 GitHub Stats
-
+```{=html}
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyushh-Gupta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushh-Gupta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushh-Gupta&theme=tokyo-night&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
+## Contribution Snake
 
----
-
-# 📈 Contribution Graph
-
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushh-Gupta&theme=tokyo-night&hide_border=true"/>
-
+```
+`<img src="https://raw.githubusercontent.com/Piyushh-Gupta/Piyushh-Gupta/output/github-contribution-grid-snake-dark.svg"/>`{=html}
+```{=html}
 </p>
+```
+## Connect
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Piyushh-Gupta/Piyushh-Gupta/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/piyushgupta1806">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:piyushgup1806@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Piyushh-Gupta">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+-   LinkedIn: https://www.linkedin.com/in/piyushgupta1806
+-   Email: piyushgup1806@gmail.com
+-   GitHub: https://github.com/Piyushh-Gupta
