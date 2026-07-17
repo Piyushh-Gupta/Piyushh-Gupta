@@ -82,31 +82,13 @@ AI/ML Engineer
 
 ---
 
-# 🌱 Current Focus
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Analytics
-- 🌐 Industrial IoT
-- 🚀 Production-grade Intelligent Systems
-
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Metrics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushh-Gupta&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Piyushh-Gupta&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://raw.githubusercontent.com/Piyushh-Gupta/Piyushh-Gupta/main/github-metrics.svg"/>
 
 </p>
 
