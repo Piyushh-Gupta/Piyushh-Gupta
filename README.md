@@ -6,7 +6,7 @@ AI/ML Engineer
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+production-grade+intelligent+systems;Artificial+Intelligence+Engineer;Machine+Learning+%7C+Data+Analytics;Industrial+IoT+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+production-grade+intelligent+systems;Artificial+Intelligence+Engineer;Machine+Learning+%7C+Data+Analytics;Industrial+IoT+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG"/>
 </a>
 </p>
 
@@ -21,7 +21,7 @@ AI/ML Engineer
 - 🤖 AI/ML Engineer passionate about building production-grade intelligent systems.
 - 📊 Interested in Artificial Intelligence, Machine Learning, Data Science & Analytics.
 - 🌐 Exploring Industrial IoT and real-world AI applications.
-- 🚀 Building impactful solutions that combine AI with software engineering.
+- 🚀 Building scalable solutions that transform data into real-world impact.
 - 🌱 Currently learning LLMs, RAG, Computer Vision and Cloud Technologies.
 
 ---
@@ -82,75 +82,43 @@ AI/ML Engineer
 
 # 🚀 Featured Projects
 
-## 🧬 CrowdDNA *(Flagship Project)*
+### 🧬 CrowdDNA *(Flagship Project)*
 
-AI-powered Crowd Intelligence Platform leveraging Computer Vision, Artificial Intelligence and Data Analytics to understand crowd behaviour, movement patterns and safety insights in real time.
+AI-powered Crowd Intelligence Platform leveraging Computer Vision, Artificial Intelligence and Data Analytics to understand crowd behaviour, movement patterns and provide real-time actionable insights.
 
 ---
 
-## 🪨 RockSure AI
+### 🪨 RockSure AI
 
 AI-powered Rockfall Prediction & Alert System using Machine Learning and Industrial IoT.
 
 ---
 
-## 📈 Customer Churn Prediction
+### 📈 Customer Churn Prediction
 
-End-to-end Machine Learning pipeline with XGBoost, SQL and Power BI.
+End-to-end Machine Learning pipeline using XGBoost, SQL and Power BI.
 
 ---
 
-## 🤖 AFDSA
+### 🤖 AFDSA
 
 Autonomous Field Deployment Suitability Analyzer using Industrial IoT and AI.
 
 ---
 
-## ⚖️ NyaySetu
+### ⚖️ NyaySetu
 
 AI-powered multilingual Legal Assistance Platform.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piyushh-Gupta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyushh-Gupta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushh-Gupta&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Piyushh-Gupta&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushh-Gupta&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyushh-Gupta&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyushh-Gupta&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyushh-Gupta&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piyushh-Gupta&theme=tokyonight&utcOffset=5.5"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushh-Gupta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
@@ -170,7 +138,7 @@ AI-powered multilingual Legal Assistance Platform.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Piyushh-Gupta/Piyushh-Gupta/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Piyushh-Gupta/Piyushh-Gupta/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </p>
 
