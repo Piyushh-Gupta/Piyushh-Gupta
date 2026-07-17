@@ -94,35 +94,32 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Piyushh-Gupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushh-Gupta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
-### 🧬 CrowdDNA ⭐ *(Flagship Project)*
+<div align="center">
 
-AI-powered Crowd Intelligence Platform leveraging Artificial Intelligence, Computer Vision and Data Analytics for real-time crowd behaviour analysis.
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🧬 **[CrowdDNA](https://github.com/Piyushh-Gupta)** ⭐ *Flagship* | AI-powered crowd intelligence platform for real-time crowd behaviour analysis and predictive risk classification | Computer Vision · Graph ML · Data Analytics |
+| 🪨 **[RockSure AI](https://github.com/Piyushh-Gupta)** | Rockfall prediction & alert system built on Industrial IoT sensor data | Machine Learning · Industrial IoT |
+| ⚖️ **[NyaySetu](https://github.com/Piyushh-Gupta)** | AI-powered legal assistant with multilingual support | NLP · LLMs |
+| 📈 **[Customer Churn Prediction](https://github.com/Piyushh-Gupta)** | End-to-end ML pipeline for churn prediction with business-facing dashboards | XGBoost · Power BI |
+| 🤖 **[AFDSA](https://github.com/Piyushh-Gupta)** | Autonomous Field Deployment Suitability Analyzer using embedded sensor hardware | ESP32 · Industrial IoT |
 
----
+</div>
 
-### 🪨 RockSure AI
-
-AI-powered Rockfall Prediction & Alert System using Machine Learning and Industrial IoT.
-
----
-
-### ⚖️ NyaySetu
-
-AI-powered Legal Assistant with multilingual support.
-
----
-
-### 📈 Customer Churn Prediction
-
-Machine Learning pipeline using XGBoost and Power BI.
-
----
-
-### 🤖 AFDSA
-
-Autonomous Field Deployment Suitability Analyzer using ESP32 and Industrial IoT sensors.
+> 💡 *Replace the placeholder links above with each project's actual repo URL.*
 
 ---
 
