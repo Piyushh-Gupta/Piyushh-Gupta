@@ -98,8 +98,8 @@
 
 <p align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Piyushh-Gupta&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Piyushh-Gupta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Piyushh-Gupta&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Piyushh-Gupta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%"/>
 
 </p>
 
@@ -131,10 +131,6 @@
 
 <a href="mailto:piyushgup1806@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Piyushh-Gupta">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
